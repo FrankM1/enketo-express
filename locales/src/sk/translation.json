@@ -265,7 +265,7 @@
     },
     "here": "tu",
     "home": {
-        "msg": "__appTitle__ beží! Prosím pristupujte k Enketo formulárom z inštalácie vašeho __serverName__ ."
+        "msg": "__appTitle__ beží! Prosím pristupujte k formulárom z inštalácie vašeho __serverName__ ."
     },
     "imagemap": {
         "svgNotFound": "SVG obrázok sa nepodarilo nájsť"

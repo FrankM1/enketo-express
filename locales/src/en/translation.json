@@ -267,7 +267,7 @@
     },
     "here": "here",
     "home": {
-        "msg": "__appTitle__ is running! Please access Enketo forms from your __serverName__ installation."
+        "msg": "__appTitle__ is running! Please access forms from your __serverName__ dashboard."
     },
     "imagemap": {
         "svgNotFound": "SVG image could not be found"

@@ -267,7 +267,7 @@
     },
     "here": "hier",
     "home": {
-        "msg": "__appTitle__ werkt! De Enketo enquetes zijn vanaf de __serverName__ installatie toegankelijk."
+        "msg": "__appTitle__ werkt! De Enketo enquetes zijn vanaf de __serverName__ dashboard toegankelijk."
     },
     "imagemap": {
         "svgNotFound": "SVG-afbeelding kan niet worden gevonden"

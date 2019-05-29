@@ -248,7 +248,7 @@
     },
     "here": "hapa",
     "home": {
-        "msg": "__appTitle__ bado liko tendeshi. Tafadhali tumia Enketo fomu zako kupitia usakinishaji uitwao __serverName__."
+        "msg": "__appTitle__ bado liko tendeshi. Tafadhali tumia fomu zako kupitia usakinishaji uitwao __serverName__."
     },
     "langs": {
         "ar": "Kiarabu",
